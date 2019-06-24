@@ -16,22 +16,20 @@
 title: The Biome Blog
 email: info@trybiome.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Biome Blog. Biome provides your team with a unified search interface for 
-  finding and organizing internal content. 
-  Biome integrates with your existing tools and apps to surface content no matter where it’s stored.
+  Spend less time searching for internal information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://trybiome.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TryBiome
 
 # Build settings
 markdown: kramdown
-remote_theme: chesterhow/tale
+remote_theme: Joepena/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
-  - jekyll-feed  
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
