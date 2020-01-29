@@ -4,9 +4,6 @@ title: The Biome Team
 permalink: /about/
 ---
 
-👋 Welcome to Biome's blog. The posts on this blog are written and maintained by the three founders:
-- [Conor](https://twitter.com/conorlandry_)
-- [Chris](https://twitter.com/cboltt)
-- [Joe](https://twitter.com/_joepena)
+A blog on search, internal apps, knowledgement management and more from the founders of [Biome](https://trybiome.com).
 
-Feel free to tweet at us with any thoughts or feedback on our posts 😄.
+Feel free to [tweet](https://twitter.com/trybiome) at us with any thoughts or feedback on our posts.
